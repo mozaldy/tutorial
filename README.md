@@ -4,7 +4,7 @@ Ini adalah tutorial untuk Debian 11, distro Linux yang sering digunakan sebagai 
 - [Daftar Isi](#daftar-isi)
 - [Prasyarat (Prerequisite)](#prasyarat)
 - [1. Konfigurasi Interfaces Jaringan](#konfigurasi-interfaces-jaringan)
-- [2. Konfigurasi Mirror](#konfigurasi-mirror)
+- [2. Konfigurasi Sources APT](#konfigurasi-sources-apt)
 - [3. Instalasi Links](#instalasi-links)
 - [4. Instalasi Calender/Cal](#instalasi-cal)
 ## Prasyarat
@@ -36,7 +36,7 @@ Ini adalah tutorial untuk Debian 11, distro Linux yang sering digunakan sebagai 
     ```
     # /etc/init.d/networking restart
     ```
-## Konfigurasi Mirror
+## Konfigurasi Sources APT
 - Di terminal Debian
   - ```
     # nano /etc/apt/sources.list
