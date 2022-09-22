@@ -1,5 +1,5 @@
 # Tutorial Debian 11
-Ini adalah tutorial untuk Debian 11, distro Linux yang sering digunakan sebagai sistem operasi berbagai macam server. Diharapkan bahwa tutorial ini dapat membantu anda untuk menguasai sistem operasi ini dengan baik agar manfaat-manfaat dari Debian bisa anda gunakan sebaik mungkin.
+Ini adalah tutorial untuk Debian 11, distro Linux yang sering digunakan sebagai sistem operasi oleh berbagai server. Diharapkan bahwa tutorial ini dapat membantu anda untuk menguasai sistem operasi ini dengan baik agar manfaat-manfaat dari Debian bisa anda gunakan sebaik mungkin.
 ## Daftar Isi
 - [Daftar Isi](#daftar-isi)
 - [Prasyarat (Prerequisite)](#prasyarat)
@@ -11,6 +11,12 @@ Ini adalah tutorial untuk Debian 11, distro Linux yang sering digunakan sebagai 
 - Debian 11
 - Koneksi Internet
   - Apabila menggunakan VirtualBox, pastikan bahwa Network Adapter Debian menggunakan NAT di Settings -> Network
+- Perlu diketahui:
+  - `nano` adalah editor text dari debian, cara pakai:
+    - Save text yang dirubah `F2` atau `Ctrl + x` -> `Y` -> `Enter` -> `Enter`
+  - `#` Memiliki artian bahwa terminal sedang dijalankan oleh SuperUser/SU.
+  - `$` Memiliki artian bahwa terminal sedang dijalankan oleh User/Non-SuperUser.
+  - Didalam file konfigurasi Linux, simbol `#` digunakan untuk mendeklarasikan comment, artinya text setelah simbol `#` tidak akan dibaca oleh sistem.
 ## Konfigurasi Interfaces Jaringan
 - Di terminal Debian
   - ```
