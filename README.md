@@ -12,8 +12,8 @@ Ini adalah tutorial untuk Debian 11, distro Linux yang sering digunakan sebagai 
 - Koneksi Internet
   - Apabila menggunakan VirtualBox, pastikan bahwa Network Adapter Debian menggunakan NAT di Settings -> Network
 - Perlu diketahui:
-  - `nano` adalah editor text dari debian, cara pakai:
-    - Save text yang dirubah `F2` atau `Ctrl + x` -> `Y` -> `Enter` -> `Enter`
+  - `nano` adalah editor text/file dari debian, cara pakai:
+    - Save text/file yang dirubah dengan: `F2` -> `Y` -> `Enter.`
   - `#` Memiliki artian bahwa terminal sedang dijalankan oleh SuperUser/SU.
   - `$` Memiliki artian bahwa terminal sedang dijalankan oleh User/Non-SuperUser.
   - Didalam file konfigurasi Linux, simbol `#` digunakan untuk mendeklarasikan comment, artinya text setelah simbol `#` tidak akan dibaca oleh sistem.
