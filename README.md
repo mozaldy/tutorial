@@ -16,7 +16,7 @@ Ini adalah tutorial untuk Debian 11, distro Linux yang sering digunakan sebagai 
     - Save text/file yang dirubah dengan: `F2` -> `Y` -> `Enter.`
   - `#` Memiliki artian bahwa terminal sedang dijalankan oleh SuperUser/SU.
   - `$` Memiliki artian bahwa terminal sedang dijalankan oleh User/Non-SuperUser.
-  - Didalam file konfigurasi Linux, simbol `#` digunakan untuk mendeklarasikan comment, artinya text setelah simbol `#` tidak akan dibaca oleh sistem.
+  - Didalam file konfigurasi Linux, simbol `#` digunakan untuk mendeklarasikan comment, artinya baris text setelah simbol `#` tidak akan dibaca oleh sistem.
 ## Konfigurasi Interfaces Jaringan
 - Di terminal Debian
   - ```
