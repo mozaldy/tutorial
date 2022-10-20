@@ -64,4 +64,9 @@ Ini adalah tutorial untuk Debian 11, distro Linux yang sering digunakan sebagai 
   - ```
     # apt install bsdmainutils -y
     # cal
+## Instalasi Mail
+- Di terminal debian
+  - ```
+    # apt install mailnutils -y
+    # mail test@gmail.com
       
