@@ -7,6 +7,7 @@ Ini adalah tutorial untuk Debian 11, distro Linux yang sering digunakan sebagai 
 - [2. Konfigurasi Sources APT](#konfigurasi-sources-apt)
 - [3. Instalasi Links](#instalasi-links)
 - [4. Instalasi Calender/Cal](#instalasi-cal)
+- [5. Instalasi Mail](#instalasi-mail) 
 ## Prasyarat
 - Debian 11
 - Koneksi Internet
